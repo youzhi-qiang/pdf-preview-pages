@@ -4,3 +4,6 @@ node 版本20.17.0 对应下载pnpm版本即可 npm install pnpm -g
 cd pdf-viewer-pro
 pnpm i
 pnpm run dev
+
+效果预览：
+![alt text](image.png)
